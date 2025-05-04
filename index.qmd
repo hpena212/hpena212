@@ -1,0 +1,16 @@
+---
+title: "Hector Pena"
+image: media/IMG_5355.jpg
+toc: false
+about: 
+  template: trestles
+  image-shape: round
+  image-width: 17em
+  links:
+    - text: LinkedIn
+      href: https://www.linkedin.com/in/hector-penaalas
+    - text: GitHub
+      href: https://github.com/hpena212
+    - text: Email
+      href: mailto:hpena@horizon.csueastbay.edu
+---

@@ -9,7 +9,7 @@ website:
       - href: index.qmd
         text: Home
       - href: about.qmd
-        text: About
+        text: About Me
       - href: projects.qmd
         text: Projects
       - href: media/FormalHP.pdf

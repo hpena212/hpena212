@@ -11,10 +11,25 @@ format:
 
 ## Projects
 
-**Text Classification Using LSTM Neural Networks** (Python, TensorFlow/Keras, Keras Tuner, Scikit-learn, Pandas)
+**Credit Risk Assessment & Predictive Modeling for Loan Approvals** | Python, Jupyter November 2024
+• Designed a risk assessment model analyzing 1,000+ loan records, boosting approval accuracy and cutting
+defaults by 15%. Built scalable data pipelines in Python.
+• Developed a predictive modeling framework analyzing loan data with Pandas/NumPy, improving approval
+accuracy by 12%.
+• Conducted correlation analysis with pandas.corr() to identify key repayment factors, informing a new credit
+scoring model.
+• Created visualizations (Matplotlib, Seaborn), of repayment trends, revealing 25% higher repayment for loans
+under $5,000, guiding a tiered interest rate strategy.
 
-- Enhanced two NLP models using Bidirectional LSTM for spam detection and sentiment analysis across over 15,000 emails and product review texts.  
-- Designed and optimized final architectures with Keras Tuner, dropout regularization, and class balancing over a two-week development cycle.  
-- Achieved 98.7% test accuracy for binary spam detection and 85.7% on multi-class sentiment classification using tuned BiLSTM architecture.
+
+*Customer Churn Analysis & Prediction** | MySQL, Python February 2025
+• Designed and executed a comprehensive churn analysis on 50,000+ customer records, identifying key
+predictors and reducing churn by 8%. Leveraged SQL to develop scalable data models.
+• Developed a predictive framework utilizing queries, improving accuracy by 10% through the identification of
+high-risk customer segments.
+• Conducted in-depth data analysis using SQL joins, aggregations, and subqueries to uncover correlations
+between customer behavior, demographics, and churn.
+• Created data visualizations using SQL-generated insights, revealing a 30% higher churn rate among customers
+with low engagement, informing targeted retention strategies.
 
 :::

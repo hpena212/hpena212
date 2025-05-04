@@ -2,4 +2,14 @@
 title: "About"
 ---
 
-test
+I'm a currently a student at Cal State East Bay,majoring in Data Science with a minor in Computer Science. With one foot in the world of R and the other exploring Python and SQL, I'm trying to build a toolkit to turn messy data into meaningful insights
+
+My path hasn’t been straight it’s more like a scatterplot with a general upward trend. I started in retail, picked up an interest in data, and now I’m exploring things like sleep habits, grad school admissions, and even the science behind cannabis. I like finding questions that make me curious and figuring them out with data..
+
+I'm also a PALiISaDS Scholar, working to bridge the gap between undergrad and grad-level research in data science.
+
+\
+🐦 Side interests: Space, plants, cats, digital culture, and learning how to teach myself better\
+🛠️ Currently building: Regression models, data visualizations, and confidence
+
+This space is where I share projects, code experiments, and things I'm proud of. If you're into creative questions, thoughtful data work, or just figuring things out in general, let's connect!

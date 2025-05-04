@@ -1,1 +1,7 @@
 /* css styles */
+body {
+    font-family: Helvetica;
+  }
+
+.small-text {
+  font-size: 11.25pt;
